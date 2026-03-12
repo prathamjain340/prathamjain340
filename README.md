@@ -1,6 +1,6 @@
 # Pratham Jain
 
-AI Engineer | Machine Learning & LLM Systems
+AI Engineer | Machine Learning & LLM Systems | Agentic AI
 
 Building AI systems with transformers, retrieval pipelines, and personalized AI assistants.
 
